@@ -14,7 +14,7 @@ var searchButton = {
   padding: "8px, 16px",
   borderRadius: "40px",
   fontSize: '22px',
-  fontFamily: 'Georgia, serif',
+  fontFamily: 'Nunito',
 };
 
 export default class MediaSubmitButton extends Component {
@@ -24,4 +24,3 @@ export default class MediaSubmitButton extends Component {
     )
   }
 }
-

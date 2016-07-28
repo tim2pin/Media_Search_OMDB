@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import MediaFetcher from './MediaFetcher.jsx';
 import MediaSearchInput from './MediaSearchInput.jsx';
 import MediaSubmitButton from './MediaSubmitButton.jsx';
+import globalStyles from './assets/styles/global.css';
 
 var titleStyle = {
   backgroundImage: 'url(http://i.imgur.com/cxmrlvV.jpg)',
